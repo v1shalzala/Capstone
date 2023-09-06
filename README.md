@@ -1,4 +1,4 @@
-####Capstone
+###Capstone
 The Hotel Booking Analysis Project aimed to explore and analyze hotel booking data using Python and Numerical Programming. Our team, consisting of four members, embarked on this project to gain insights into booking patterns, customer preferences, and other key factors that influence hotel bookings.
 ####To begin, we collected a dataset containing information such as booking dates, customer demographics, hotel features, and booking outcomes. Using Python and its numerical programming capabilities, we performed various data analysis techniques to uncover meaningful patterns and trends.
 
